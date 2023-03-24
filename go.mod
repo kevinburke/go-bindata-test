@@ -1,4 +1,4 @@
-module github.com/kevinburke/go-bindata/v4
+module github.com/kevinburke/go-bindata-test/v4
 
 go 1.20
 
